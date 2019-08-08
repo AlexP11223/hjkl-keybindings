@@ -1,0 +1,9 @@
+keycode 66 = Mode_switch
+keysym h = h H Left
+keysym l = k K Right
+keysym k = u U Up
+keysym j = j J Down
+keysym i = i I Home
+keysym o = o O End
+keysym u = p P Prior
+keysym p = l L Next
