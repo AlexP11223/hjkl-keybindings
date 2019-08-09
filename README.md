@@ -1,10 +1,10 @@
-Remap `Caps Lock` + `hjkl` (or `uhjk`, could be more convenient if you are not a vim user) to arrow keys, as well as `Caps Lock` + `uiop`/`iopl` to `Home`, `End`, `Page Up`, `Page Down`.
+Remap `Caps Lock` + `hjkl` (or `uhjk`, could be more convenient if you are not a vim user) to arrow keys, and `Caps Lock` + `uiop` (or `iopl`) to `Home`, `End`, `Page Up`, `Page Down`.
 
-Linux
+## Linux
 
 - [xkb](/linux/xkb)
 - [xmodmap](/linux/xmodmap) - simpler but less reliable
 
-Windows
+## Windows
 
 - [AutoHotkey](/windows/autohotkey)
